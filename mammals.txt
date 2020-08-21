@@ -1,3 +1,5 @@
 bat
 tiger
 zebra
+dog
+bear
